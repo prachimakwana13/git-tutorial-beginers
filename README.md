@@ -6,6 +6,8 @@ the bset ways are:
   -code
   -repeat
 
+  Thank you!
+
 <!-- 1. Clone the repository:
    git clone https://github.com/username/project-name.git
 
