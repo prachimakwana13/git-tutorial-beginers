@@ -1,10 +1,9 @@
 ## 🚀 The best github repo out there
-this is readme
-the bset ways are:
-  -Eat
-  -Sleep
-  -code
-  -repeat
+this is readme - the best ways are:
+    -Eat
+    -Sleep
+    -code
+    -repeat
 
   Thank you!
 
